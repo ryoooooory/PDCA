@@ -23,6 +23,7 @@ class PlanController: UIViewController, UITextFieldDelegate  {
     // textFiel の情報を受け取るための delegate を設定
   
     
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         textField.delegate = self
