@@ -30,6 +30,7 @@ class PlanController: UIViewController, UITextFieldDelegate  {
         userDefaults.register(defaults: ["DataStore": "default"])
         //label.text = readData()
         
+        
     }
     
     @IBAction func buttonTouch(_ sender: Any) {
